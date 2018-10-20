@@ -3,7 +3,7 @@
     <property name="created">2018-06-05T20:24:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-10-11T18:23:38</property>
+    <property name="modified">2018-10-11T17:55:18</property>
     <property name="originalScheme">My Gedit for Elegant Gnome</property>
   </metaInfo>
   <colors>
@@ -678,13 +678,13 @@
     </option>
     <option name="PY.ANNOTATION">
       <value>
-        <option name="FOREGROUND" value="48adbb" />
+        <option name="FOREGROUND" value="ecbe61" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.BUILTIN_NAME">
       <value>
-        <option name="FOREGROUND" value="48adbb" />
+        <option name="FOREGROUND" value="deb060" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -697,19 +697,19 @@
     </option>
     <option name="PY.DECORATOR">
       <value>
-        <option name="FOREGROUND" value="98d0ff" />
+        <option name="FOREGROUND" value="489aee" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="ecbe61" />
+        <option name="FOREGROUND" value="e4bf7f" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.FUNC_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="ecbe61" />
+        <option name="FOREGROUND" value="489aee" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -721,18 +721,18 @@
     </option>
     <option name="PY.OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="52a4f0" />
+        <option name="FOREGROUND" value="489aee" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="cd8348" />
+        <option name="FOREGROUND" value="bfa4a4" />
       </value>
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="48adbb" />
+        <option name="FOREGROUND" value="ed971a" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -815,7 +815,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="d9555d" />
+        <option name="FOREGROUND" value="84b1e1" />
         <option name="BACKGROUND" value="2c3034" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -952,7 +952,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="d9555d" />
+        <option name="FOREGROUND" value="84b1e1" />
         <option name="BACKGROUND" value="41444f" />
         <option name="EFFECT_COLOR" value="3c3f41" />
         <option name="ERROR_STRIPE_COLOR" value="0" />
