@@ -3,7 +3,7 @@
     <property name="created">2018-06-05T20:24:56</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-10-11T18:23:38</property>
+    <property name="modified">2018-10-11T18:16:13</property>
     <property name="originalScheme">My Gedit for Elegant Gnome</property>
   </metaInfo>
   <colors>
@@ -678,13 +678,13 @@
     </option>
     <option name="PY.ANNOTATION">
       <value>
-        <option name="FOREGROUND" value="48adbb" />
+        <option name="FOREGROUND" value="ecbe61" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.BUILTIN_NAME">
       <value>
-        <option name="FOREGROUND" value="48adbb" />
+        <option name="FOREGROUND" value="deb060" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -703,7 +703,7 @@
     </option>
     <option name="PY.FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="ecbe61" />
+        <option name="FOREGROUND" value="e4bf7f" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -727,7 +727,7 @@
     </option>
     <option name="PY.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="cd8348" />
+        <option name="FOREGROUND" value="bfa4a4" />
       </value>
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
